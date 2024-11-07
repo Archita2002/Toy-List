@@ -1,0 +1,1 @@
+Created a Toy List web app using HTML, CSS, and JavaScript, implementing CRUD operations to allow users to add, view, edit, and delete toy items. The app features an interactive, user-friendly interface with dynamic functionality to manage a collection of toy
